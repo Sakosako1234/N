@@ -1,0 +1,12 @@
+body{background-color: rgb(252, 245, 156); font-family: 'Dancing Script'}
+header,nav{background-color: rgb(255, 218, 11); font-size: larger; font-family: 'Rubik Pixels', cursive;
+    font-family: 'Sofia Sans Condensed', sans-serif;}
+    #no{text-indent:40px; display: inline-block;}
+    h2{text-align: center; font-size: 60px; text-shadow: 9px 8px 4px yellow;}
+    .pic{width:350px; height: 450px; margin:30px}
+p{font-size: 30px;}
+h3{font-size: 50px; text-align: center;}
+button{font-size: 30px; background-color: yellow; border:1px solid black; border-radius: 10px; width: 150px; height: 80px; font-family: 'Yeseva One'; margin-left: 600px;}
+footer{background-color: rgb(255, 218, 11); text-align: justify;}
+h5{text-indent: 6px; text-align: start;}
+q{font-size: 40px; margin-left: 500px;}
